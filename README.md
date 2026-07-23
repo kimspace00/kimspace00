@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kimspace00/kimspace00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🪐안녕하세요, 김우주입니다🪐
 
-Here are some ideas to get you started:
+### 꾸준하게 성장하는 개발자
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+
+## 🛠 Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
